@@ -18,5 +18,10 @@ public class Main {
         System.out.println("princeAndPauper.getYearOfPublication() = " + princeAndPauper.getYearOfPublication());
         princeAndPauper.setYearOfPublication(1900);
         System.out.println("princeAndPauper.getYearOfPublication() = " + princeAndPauper.getYearOfPublication());
+
+        System.out.println("levTolstoi.toString() = " + levTolstoi.toString());
+        System.out.println("warAndPeace.toString() = " + warAndPeace.toString());
+        System.out.println("markTven.toString() = " + markTven.toString());
+        System.out.println("princeAndPauper.toString() = " + princeAndPauper.toString());
     }
 }
